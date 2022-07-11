@@ -22,3 +22,6 @@ a = float(input())
 print(format(a,".2f"))
 ```
 `format(<float>,".nf")` 소숫점 n+1 번째 자리에서 반올림.
+
+
+### 6053~ Checkup
